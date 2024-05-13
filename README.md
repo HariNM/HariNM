@@ -1,7 +1,7 @@
 -  Hi, I’m @HariNM
--  I’m interested in Front-end web development, Software engineering and UI/UX design.
--  I’m currently learning HTML, CSS, Javascript, Python and C
--  How to reach me LinkedIn: www.linkedin.com/in/hari-narayanan-m-8b3274224, Github: @HariNM 
+-  I’m interested in web development, Software engineering, cybersecurity and UI/UX design.
+-  I’m currently pursuing BTech in Information Technology at Manipal Institute of Technology, Manipal.
+-  LinkedIn: www.linkedin.com/in/hari-narayanan-m-8b3274224, Github: @HariNM 
 
 
 <!---
